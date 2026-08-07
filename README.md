@@ -51,15 +51,16 @@ After signing in, you can explore the dashboard, customers, invoices, search and
 - Optimized fonts, images, navigation, and metadata
 
 ### Tech stack
-
-- Next.js with the App Router
-- React and React Server Components
+- Next.js with App Router
+- React, React Server Components, and Server Actions
 - TypeScript
 - Tailwind CSS and CSS Modules
 - PostgreSQL with the `postgres` client
 - Auth.js / NextAuth.js
 - Zod
 - Heroicons, `clsx`, and `use-debounce`
+- pnpm
+- Vercel
 
 ### What I learned — all 16 course chapters
 
@@ -237,15 +238,16 @@ Email: user@nextmail.com
 - Оптимізовані шрифти, зображення, навігація та metadata
 
 ### Технології
-
-- Next.js з App Router
-- React і React Server Components
+- Next.js with App Router
+- React, React Server Components, and Server Actions
 - TypeScript
-- Tailwind CSS і CSS Modules
-- PostgreSQL та клієнт `postgres`
+- Tailwind CSS and CSS Modules
+- PostgreSQL with the `postgres` client
 - Auth.js / NextAuth.js
 - Zod
-- Heroicons, `clsx` і `use-debounce`
+- Heroicons, `clsx`, and `use-debounce`
+- pnpm
+- Vercel
 
 ### Що я вивчила — усі 16 розділів курсу
 
