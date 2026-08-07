@@ -10,6 +10,13 @@
 ## English
 
 ### About the project
+## Live Demo
+[View Live Site](https://nextjs-dashboard-coral-pi-63.vercel.app/login)
+Demo credentials:
+```text
+Email: user@nextmail.com
+Password: 123456
+
 Acme Financial Dashboard is a full-stack application built while completing the official [Next.js App Router course](https://nextjs.org/learn/dashboard-app). It demonstrates a modern financial dashboard with authentication, protected routes, database-driven analytics, invoice management, search, pagination, validation, error handling, and responsive UI.
 
 This repository documents not only the final result, but also the performance, user-experience, and developer-experience improvements introduced throughout all 16 course chapters.
