@@ -12,8 +12,9 @@
 ### About the project
 ## Live Demo
 [View Live Site](https://nextjs-dashboard-coral-pi-63.vercel.app/login)
+
 Demo credentials:
-```text
+
 Email: user@nextmail.com
 Password: 123456
 
