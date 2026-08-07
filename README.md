@@ -11,7 +11,7 @@
 
 ### About the project
 ## Live Demo
-[View Live Site](https://nextjs-dashboard-coral-pi-63.vercel.app/login)
+[View Live Site](https://nextjs-dashboard-coral-pi-63.vercel.app/)
 
 Demo credentials:
 
