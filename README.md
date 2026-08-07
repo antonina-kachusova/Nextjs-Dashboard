@@ -4,6 +4,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwindcss)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
+## Certificate
+I completed the official Vercel course:
+**Next.js App Router Fundamentals**  
+Issued by Vercel  
+Date: July 22, 2026
+[View Certificate](https://nextjs.org/learn/certificate?course=dashboard-app&user=167116&certId=dashboard-app-167116-1784754820091)
 
 [English](#english) · [Українська](#українська)
 
