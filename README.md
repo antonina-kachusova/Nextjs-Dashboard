@@ -46,7 +46,7 @@ After signing in, you can explore the dashboard, customers, invoices, search and
 - Invoice search and URL-based pagination
 - Create, edit, and delete invoice operations
 - Server-side form validation with accessible error messages
-- Streaming UI with route-level loading states, reusable loading skeletons, and component-level 'Suspense' boundaries
+- Streaming UI with route-level loading states, reusable loading skeletons, and component-level `Suspense` boundaries
 - Route-level error recovery and custom `404` handling
 - Optimized fonts, images, navigation, and metadata
 
