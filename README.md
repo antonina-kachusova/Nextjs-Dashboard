@@ -46,7 +46,7 @@ After signing in, you can explore the dashboard, customers, invoices, search and
 - Invoice search and URL-based pagination
 - Create, edit, and delete invoice operations
 - Server-side form validation with accessible error messages
-- Streaming UI with route and component-level loading skeletons
+- Streaming UI with route-level loading states, reusable loading skeletons, and component-level 'Suspense' boundaries
 - Route-level error recovery and custom `404` handling
 - Optimized fonts, images, navigation, and metadata
 
@@ -114,7 +114,7 @@ I learned to distinguish content that can be prepared ahead of time from request
 
 #### 9. [Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 
-I added a route-level `loading.tsx`, reusable skeletons, and component-level Suspense boundaries for cards, revenue, recent invoices, and the invoice table.
+I added a route-level `loading.tsx`, reusable skeletons, and component-level `Suspense` boundaries for cards, revenue, recent invoices, and the invoice table.
 
 **Next.js optimization:** the page shell and available content can be streamed immediately instead of waiting for every database query. Independent sections load progressively, improving perceived performance and preventing one slow request from blocking the complete page.
 
@@ -301,7 +301,7 @@ Email: user@nextmail.com
 
 #### 9. [Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 
-Я додала маршрутний `loading.tsx`, повторно використовувані skeleton-компоненти й окремі <Suspense> boundaries для карток, доходів, останніх рахунків і таблиці рахунків.
+Я додала маршрутний `loading.tsx`, повторно використовувані skeleton-компоненти й окремі `Suspense` boundaries для карток, доходів, останніх рахунків і таблиці рахунків.
 
 **Оптимізація Next.js:** оболонка сторінки та вже доступний контент можуть надсилатися одразу, не очікуючи завершення всіх запитів до бази. Незалежні секції завантажуються поступово, покращуючи сприйняту швидкість і не дозволяючи одному повільному запиту блокувати всю сторінку.
 
